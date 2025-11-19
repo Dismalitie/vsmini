@@ -242,7 +242,7 @@
             argsBox.Name = "argsBox";
             argsBox.Size = new Size(178, 24);
             argsBox.TabIndex = 18;
-            argsBox.Text = "Hello|world!";
+            argsBox.Text = "Hello world!";
             // 
             // delimiter
             // 
@@ -252,7 +252,7 @@
             delimiter.Name = "delimiter";
             delimiter.Size = new Size(18, 24);
             delimiter.TabIndex = 20;
-            delimiter.Text = "|";
+            delimiter.Text = " ";
             // 
             // Main
             // 
